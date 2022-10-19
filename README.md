@@ -58,4 +58,5 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alineborak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
