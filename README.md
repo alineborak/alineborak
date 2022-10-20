@@ -1,8 +1,4 @@
 <div id="header" align="center">
-    <img
-      src="https://media.giphy.com/media/xsE65jaPsUKUo/giphy.gif"
-      width="100"
-    />
     <div id="badges">
       <a href="https://www.linkedin.com/in/aline-bora-kloppert/">
         <img
@@ -18,11 +14,15 @@
     </div>
   </div>
   <div align="center">
-    <h1>Hey there, welcome to my git!</h1>
+  <img
+      src="https://media.giphy.com/media/xsE65jaPsUKUo/giphy.gif"
+      width="100"
+    />
+    <h1>Hey there! Welcome to my git!</h1>
     <img
-      src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"
-      width="600"
-      height="300"
+      src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"
+      width="400"
+      height="200"
     />
   </div>
   
@@ -57,9 +57,3 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alineborak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  ---
-  
-  ### :writing_hand: Blog Posts :
-  
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
