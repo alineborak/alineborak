@@ -33,7 +33,7 @@
   
   - :seedling: In my free time, I love to walk in the nature, listen to classical music and read tech articles.
   
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aline-bora-kloppert/)
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aline-bora-kloppert/)
   
   ---
   
