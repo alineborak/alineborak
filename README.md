@@ -19,17 +19,12 @@
       width="100"
     />
     <h1>Hey there! Welcome to my git!</h1>
-    <img
-      src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"
-      width="400"
-      height="200"
-    />
   </div>
   
   ### :woman_technologist: About Me :
-  I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil, living in The Netherlands.
+  I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , living in The Netherlands.
   
-  - :telescope: I’m working as a Quality Assurance Engineer and contributing to frontend and backend SLDC quality.
+  - :telescope: Working as a Quality Assurance Engineer and contributing to frontend and backend SLDC quality.
   
   - :seedling: In my free time, I love to walk in the nature, listen to classical music and read tech articles.
   
