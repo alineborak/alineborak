@@ -26,7 +26,7 @@
   
   - :telescope: Working as a Quality Assurance Engineer and contributing to frontend and backend SLDC quality.
   
-  - :seedling: In my free time, I love to walk in the nature, listen to classical music and read tech articles.
+  - :seedling: In my free time, I love to walk in the nature, listen to classical music and true crime related podcasts.
   
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aline-bora-kloppert/)
   
