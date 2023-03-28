@@ -24,7 +24,7 @@
   ### :woman_technologist: About Me :
   I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , living in The Netherlands.
   
-  - :telescope: Working as a Quality Assurance Engineer, contributing to awesome softwares frontend/backend SLDC quality.
+  - :telescope: Working as a Quality Assurance Engineer, I am to contribute to awesome Softwares & SLDC quality.
   
   - :seedling: In my free time, I love to walk in the nature, listen to classical music and true crime related podcasts.
   
